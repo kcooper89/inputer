@@ -1,8 +1,8 @@
 
-# Jaired 
+# Kyle 
 
 ## Description 
-project 1
+This is the readme project 
 
 # Table of Contents
 
@@ -11,19 +11,19 @@ project 1
 npm install
 
 ## Usage
-nothing
+Week 9
 
 ## Contribution
-nothing
+Nothing
 
 ## Test 
 npm run test 
 
 ## Github Username
-jaired
+kcooper89
 
 ## Github Email
- jaired
+kcooper89.kc@gmail.com
 
 ## Licensing
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]
+[![GitHub license](https://img.shields.io/badge/license-Apache-blue.svg)]
